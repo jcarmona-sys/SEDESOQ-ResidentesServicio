@@ -47,3 +47,6 @@ y una base de datos relacional como PostgreSQL. El proceso incluirá diseño UX/
 Se requerirá documentación completa, incluyendo guías de instalación y uso, así como un informe de lecciones aprendidas. El I.S.C. Javier Carmona González actuará como asesor, 
 asegurando el cumplimiento de estándares escolares y evaluando el progreso en etapas clave.
 
+
+* FAVOR DE VALIDAR, ADJUNTAR NOMBRE DE USUARIO Y RESPONDER CON LA PROPUESTA QUE LE AGRADE MÁS. 
+
