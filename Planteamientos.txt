@@ -1,0 +1,49 @@
+Buen día, 
+
+Revisando las posibilidades para proyectos a desarrollar encontré 2 opciones que podrían convenir para un equipo de desarollo de tres a cuatro personas y un asesor, en este caso, 
+he verificado la posibilidad de utilizar un proyecto que yo realicé en mi proceso de titulación realizando la adaptación a servicio/prácticas escolares para cada uno de ustedes, 
+tengo entendido que serán 4 personas, en un dado caso que sea así les comento el planteamiento.
+
+                                                                ALTERNATIVA 1: SISTEMA DE TRÁMITE Y ARCHIVO
+
+El sistema deberá ser implementado para llevar control sobre la documentación que se entrega en el departamento, una posible escalabilidad sería llevar registro de los libros también,
+téngase en cuenta que dichos libros son de entrada por salida ya que normalmente se envían por períodos a distintos lugares, está característica es opcional. 
+Como situación principal se plantea la idea de llevar control sobre documentos e información que pasa por el departamento, permitiendo su correcta ubicación y manejo internos. 
+La idea central representa un sistema de tipo CRUD donde se puedan dar de alta el registro de los archivos, modificar su ubicación, removerlos en caso de pasar a otro departamento,
+para el caso de que sean enviados o depositados en otro departamento deberá establecerse esa actualización a manera de modificación. 
+
+El/los lenguajes de programación empleados para este proyecto dependerán del/los involucrados y su planteamiento de resolución, siendo necesario el desarrollo, diseño e implementación,
+así como la documentación y manual técnico del mismo, para fines de normativas y escalabilidad el I.S.C. Javier Carmona González proporcionará los formatos y adecuaciones pertinentes,
+quedando como responsable de la implementación y revisión del proyecto a lo largo del desarrollo y entrega final. 
+
+                                                 ALTERNATIVA 2: SISTEMA DE GESTIÓN DE INVENTARIO PARA PEQUEÑAS EMPRESAS
+
+Este proyecto consiste en desarrollar un sistema para el control de inventarios en una pequeña empresa o departamento, 
+enfocándose en el seguimiento de productos, entradas y salidas de stock, y alertas para reabastecimiento. 
+Como escalabilidad opcional, se podría integrar un módulo para generar reportes analíticos sobre ventas o consumo histórico, 
+utilizando gráficos simples para visualizar tendencias.
+
+La idea principal es crear una aplicación tipo CRUD que permita registrar nuevos items (con detalles como nombre, cantidad, precio y proveedor), 
+actualizar cantidades en tiempo real (por ventas o compras), eliminar items obsoletos y buscar por categorías o fechas. 
+Adicionalmente, se incluiría funcionalidad para notificaciones automáticas cuando el stock baje de un umbral definido.
+
+Los lenguajes de programación se elegirán según las preferencias del equipo, pudiendo usar frameworks web como React para el frontend y Node.js o Python (con Flask/Django) para el backend, 
+junto con una base de datos como MySQL o MongoDB. El desarrollo abarcará el diseño de la interfaz, implementación de lógica de negocio, pruebas de funcionalidad y seguridad básica (como autenticación de usuarios). 
+La documentación incluirá un manual de usuario y técnico, con diagramas de flujo y base de datos. El I.S.C. Javier Carmona González supervisará el proyecto, 
+proporcionando formatos para normativas y revisando avances hasta la entrega final.
+
+                                                        ALTERNATIVA 3: PLATAFORMA DE RESERVAS EN LÍNEA PARA SERVICIOS ESCOLARES
+
+El sistema se orientará a gestionar reservas de recursos escolares, como salones, equipo audiovisual o laboratorios, 
+permitiendo a estudiantes y profesores programar y consultar disponibilidades. Una extensión opcional podría ser la integración con un calendario compartido o notificaciones por email/SMS 
+para recordatorios y confirmaciones.
+
+El núcleo del proyecto es un sistema CRUD para manejar reservas: alta de nuevas solicitudes (con fecha, hora, usuario y recurso), 
+modificación de detalles existentes, cancelación de reservas y consultas en tiempo real para evitar conflictos. Se enfatizará en reglas de validación, 
+como límites de tiempo por usuario o prioridades por rol (estudiante vs. profesor).
+
+El equipo podrá optar por lenguajes como Java para el backend (con Spring Boot), HTML/CSS/JavaScript para el frontend, 
+y una base de datos relacional como PostgreSQL. El proceso incluirá diseño UX/UI, implementación de APIs para interacciones, pruebas de integración y manejo de concurrencia. 
+Se requerirá documentación completa, incluyendo guías de instalación y uso, así como un informe de lecciones aprendidas. El I.S.C. Javier Carmona González actuará como asesor, 
+asegurando el cumplimiento de estándares escolares y evaluando el progreso en etapas clave.
+
