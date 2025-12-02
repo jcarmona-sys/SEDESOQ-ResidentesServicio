@@ -48,5 +48,11 @@ Se requerirá documentación completa, incluyendo guías de instalación y uso, 
 asegurando el cumplimiento de estándares escolares y evaluando el progreso en etapas clave.
 
 
-* FAVOR DE VALIDAR, ADJUNTAR NOMBRE DE USUARIO Y RESPONDER CON LA PROPUESTA QUE LE AGRADE MÁS. 
+* FAVOR DE VALIDAR, ADJUNTAR NOMBRE DE USUARIO Y RESPONDER CON LA PROPUESTA QUE LE AGRADE MÁS.
+
+
+
+-Javier Carmona González, prueba de commit.
+
+
 
