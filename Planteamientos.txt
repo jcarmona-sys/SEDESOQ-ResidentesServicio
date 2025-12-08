@@ -51,7 +51,7 @@ asegurando el cumplimiento de estándares escolares y evaluando el progreso en e
 * FAVOR DE VALIDAR, ADJUNTAR NOMBRE DE USUARIO Y RESPONDER CON LA PROPUESTA QUE LE AGRADE MÁS.
 
 
--Prueba 1
+
 -Javier Carmona González, prueba de commit.
 
 
