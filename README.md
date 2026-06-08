@@ -1,10 +1,28 @@
-# SEDESOQ - Residentes y Servicio
+# SEDESOQ | Residentes y Servicio
 
-Repositorio inicial para propuestas y ejercicios relacionados con residentes y servicio social. Actualmente contiene planteamientos de posibles proyectos y una prueba mínima de ejecución en Python.
+Repositorio inicial de exploracion para propuestas relacionadas con residentes
+y servicio social. Conserva planteamientos de posibles proyectos y una prueba
+minima de ejecucion en Python.
 
-## Vista previa
+## Preview
 
-![Ejecución inicial](docs/screenshots/ejecucion.png)
+![Prueba inicial de ejecucion](docs/screenshots/ejecucion.png)
+
+## Contenido actual
+
+| Recurso | Descripcion |
+| --- | --- |
+| `Planteamientos.txt` | Ideas y lineas iniciales de trabajo |
+| `saludo.py` | Prueba minima del entorno Python |
+| `docs/` | Material visual de referencia |
+
+## Estado
+
+`Prototipo inicial / exploracion`
+
+Este repositorio todavia no representa un sistema funcional ni un producto
+desplegado. Su documentacion diferencia claramente el alcance actual de las
+propuestas futuras.
 
 ## Ejecutar
 
